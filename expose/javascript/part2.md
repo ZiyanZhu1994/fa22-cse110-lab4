@@ -1,10 +1,10 @@
-1. 3. Because the type of i is var, it can be accessed anywhere in the function.
-2. 150. Because the type of discountedPrice is var, it can be accessed anywhere in the function.
-3. 150. Because the type of finalPrice is var, it can be accessed anywhere in the function.
+1. 3, Because the type of i is var, it can be accessed anywhere in the function.
+2. 150, Because the type of discountedPrice is var, it can be accessed anywhere in the function.
+3. 150, Because the type of finalPrice is var, it can be accessed anywhere in the function.
 4. [ 50, 100, 150 ]. The function iterates over each price in the prices list and computes the price after discount and round it.
 5. error. Because let keyword provides the variable with what is known as block scope, and line 12 is outside of 'for' block.
 6. error. Because let keyword provides the variable with what is known as block scope, and line 13 is outside of 'for' block.
-7. 150. Line 14 finalPrice is in the same block as line 4.
+7. 150, Line 14 finalPrice is in the same block as line 4.
 8. [ 50, 100, 150 ]. The function iterates over each price in the prices list and computes the price after discount and round it.
 9. error. Because let keyword provides the variable with what is known as block scope, and line 11 is outside of 'for' block.
 10. Because line 12 length is in the same block as line 4 and its value is not reassigned.
